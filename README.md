@@ -2,7 +2,7 @@
 
 ## My name is Esteban. I´m a frontend developer :technologist: from Argentina :argentina:
 
-### :computer: Skills
+## :computer: Skills
 
 :orange_circle: HTML
 
