@@ -24,4 +24,4 @@
 
 ## :iphone: Contact
 
-You can find me at my [LinkedIn profile] (https://www.linkedin.com/in/esteban-lopez-alonzo-0615431b9/)
+You can find me at my [LinkedIn](https://www.linkedin.com/in/esteban-lopez-alonzo-0615431b9/)
