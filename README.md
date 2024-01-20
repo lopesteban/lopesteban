@@ -2,7 +2,7 @@
 
 ## My name is Esteban. I´m a software developer :technologist: from Argentina :argentina:
 
-When I'm not coding, I enjoy spending my time reading, playing soccer or hanging out with my family and friends.
+When I'm not coding, I enjoy spending my time reading old classics, playing football, or hanging out with my family and friends.
 
 ## :computer: Skills
 
