@@ -16,13 +16,7 @@ When I'm not coding, I enjoy spending my time reading, playing soccer or hanging
 
 :black_large_square: CLI
 
-:loud_sound: :speaking_head: Excellent communication skills
 
-:busts_in_silhouette: Great at teamwork
-
-:male_detective: Problem solving skills
-
-:man_technologist: Proactive and decision making skills
 
 ## :iphone: Contact
 
